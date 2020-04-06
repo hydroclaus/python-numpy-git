@@ -63,20 +63,26 @@
 
 
 ## Tutorials, Help
-    
+
 - official [python tutorial][py_tutorial]
 - [Scipy Lecture Notes][sp_lectures]
 - [from python to numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) and [numpy questions](https://github.com/rougier/numpy-100) by Nicolas Rougier
 - good course for novices: [Lorena Barba MOOC course](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about)
 - [Allen Downey on Colab](https://colab.research.google.com/github/AllenDowney/)
 - [PyTudes](https://github.com/norvig/pytudes) by Peter Norvig
-- [Numpy Introduction](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) on [google colab](https://colab.research.google.com/notebooks/intro.ipynb)    
+- [Numpy Introduction](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) on [google colab](https://colab.research.google.com/notebooks/intro.ipynb) 
+- for [pandas](https://pandas.pydata.org), there is "[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)"
+- The following two webpages offer great resources, particularly for beginners:
+    - [realpython.com](https://realpython.com)
+    - [tutorialspoint.com](https://www.tutorialspoint.com/index.htm)
+
+
 
 Also, check out the [github student pack](https://education.github.com/pack) that comes with wonderful tools such as the [git gui "Tower"](https://www.git-tower.com/mac), ["working copy"](https://workingcopyapp.com) an awesome git gui for iOS, and others
 
 ## Installing on your own maching
 
-- you could download python, and most modules individually, either as compiled binary for your OS, or via some sort of packages. The distribution I recommend, and which is free for [academic use][anaconda_academic], is [anaconda][anaconda]. "Distribution" means that most commonly used modules (such as numpy et al.) are included in one downloadable installer.
+- you could download python, and most modules individually, either as compiled binary for your OS, or via some sort of packages. The distribution I recommend, and which is free for [academic use][anaconda_academic], is [anaconda][anaconda]. "Distribution" means that most commonly used modules (such as numpy et al.) are included in one downloadable installer. For windows, there is a portable scientific python distribution, "[WinPython](https://sourceforge.net/projects/winpython/)"
 
 - Integrated Development Environment (IDE):
 
