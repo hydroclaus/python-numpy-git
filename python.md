@@ -60,6 +60,7 @@
     - the "not so short introduction to latex" ([lshort][lshort])
 
 - [markdown][md]
+    - [markdown tutorial](https://www.markdowntutorial.com)
 
 
 ## Tutorials, Help
