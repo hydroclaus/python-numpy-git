@@ -1,13 +1,13 @@
 # Distributed Version Control
 
 
-## Intro
-### Basic Concepts
+
+## Basic Concepts
 
 <font color='red'>demo</font> → draw on board
 
 
-### Reasoning
+## Reasoning
 
 - one set of codes available for everybody (everything should exist only once)
 - can go back in time and access different versions
@@ -16,15 +16,16 @@
 - not only codes, but all ASCII files, can and should be version controlled, also the jupyter notebooks of this course (i.e. the course notes)
 
 
-### Which One?
+## Which One?
+
 - two big contenders in distributed version control: git (`git`) and mercurial (`hg`);
 - github seems to be the most common online host, and it provides rendering of jupyter notebook, hence we will use this one;
 - git is also implemented by gitlab and bitbucket; bitbucket also provides mercurial hosting
 
-### Connecting to a Host / a Server
+## Connecting to a Host / a Server
+
 - secure communication ([ssh][ssh]) via [public-private key pairs](https://en.wikipedia.org/wiki/Public-key_cryptography); [video](https://www.youtube.com/watch?v=YEBfamv-_do) explaining this visually
 - note: at the beginning, this might add too much complexity, hence you can use the [windows gui][github_win_desktop] which allows authentification with username and password
-
 
 
 ### Steps to get you up and running on your machine:
@@ -64,7 +65,10 @@
     
     
 
-### Notes
+## Notes
+
+- [Mastering git](https://thoughtbot.com/upcase/mastering-git)
+- [learn git and version control at tower](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/integrating-remote-changes#start)
 - full git [documentation][git_doc]
 - a [git and github tutorial][git_github_tutorial]
 - full mercurial [documentation][hg_doc]
