@@ -35,8 +35,13 @@
         
 - transition from version 2 to version 3 recently finished / ongoing. If you start fresh, I recommend version 3; I will be demonstrating using version 3
 
+## "Scientific Python"
+"[SciPy](https://www.scipy.org) (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering. In particular, these are some of the core packages: Numpy (linear algebra), SciPy (statistics, FFT, special functions,...), matplotlib (plotting), iPython (interactive computing), SymPy (symbolic math), pandas (data, time-series)"
+### matplotlib
+- [Matplotlib Figures](https://matplotlib.org/matplotblog/posts/an-inquiry-into-matplotlib-figures/)
+- [pyplot vs. object-oriented plotting](https://matplotlib.org/matplotblog/posts/pyplot-vs-object-oriented-interface/)
 
-## ipython / project jupyter
+### ipython / project jupyter
 
 - ipython → [project jupyter][jupyter]
 
@@ -53,7 +58,7 @@
     
 
     
-### Writing in ipynb
+#### Writing in ipynb
 
 - [latex][latex] 
 
