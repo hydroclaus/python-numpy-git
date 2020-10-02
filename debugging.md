@@ -11,7 +11,8 @@
 - at[gestaltrevision][gestaltrevision]
 
 
-
+ IPython importieren und dann im code einfach `IPython.embed()` an der Stelle wo du stoppen moechtest. Und das funktioniert in IPython aber auch ganz normal in Python
+ 
 ## python scripts
 
 - python debugger commands [dbg commands][dbg_com]

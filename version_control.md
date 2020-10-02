@@ -52,16 +52,16 @@
 
     [this][our_repo] is the link to the repository of our course:
 
-        https://github.com/clausTue/geostats18
+        https://github.com/clausTue/geostatsXX
     
  
     command to clone with ssh
 
-        git clone git@github.com:clausTue/geostats18.git
+        git clone git@github.com:clausTue/geostatsXX.git
         
     command to clone with http
     
-        git clone https://github.com/clausTue/geostats18.git
+        git clone https://github.com/clausTue/geostatsXX.git
     
     
 

@@ -36,16 +36,27 @@
 - transition from version 2 to version 3 recently finished / ongoing. If you start fresh, I recommend version 3; I will be demonstrating using version 3
 
 ## "Scientific Python"
-"[SciPy](https://www.scipy.org) (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering. In particular, these are some of the core packages: Numpy (linear algebra), SciPy (statistics, FFT, special functions,...), matplotlib (plotting), iPython (interactive computing), SymPy (symbolic math), pandas (data, time-series)"
+Despite the fact that python is a general programming language and has intrinsically many things like web-servers, simple data-bases, and many more available ("batteries included"), there exists a Python-based ecosystem of open-source software for mathematics, science, and engineering. "[SciPy](https://www.scipy.org)" (pronounced “Sigh Pie”).  In particular, these are some of the core packages that extend pythons abilities much for our purposes:
+
+- [Numpy](https://numpy.org) (linear algebra), 
+- [SciPy](https://www.scipy.org/scipylib/index.html) (statistics, FFT, special functions,...),
+- [matplotlib](https://matplotlib.org) (plotting), 
+- [iPython](http://ipython.org) (interactive computing), 
+- [SymPy](https://www.sympy.org/en/index.html) (symbolic math), 
+- [pandas](https://pandas.pydata.org) (data structures, particularly good for time-series)"
+
 ### matplotlib
+A plotting/visualisation environment that can conveniently be called directly from python
+
 - [Matplotlib Figures](https://matplotlib.org/matplotblog/posts/an-inquiry-into-matplotlib-figures/)
 - [pyplot vs. object-oriented plotting](https://matplotlib.org/matplotblog/posts/pyplot-vs-object-oriented-interface/)
 
 ### ipython / project jupyter
+Most of my teaching takes place in [jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) or in [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/)
 
-- ipython → [project jupyter][jupyter]
+- [project jupyter][jupyter] developed from [ipython](http://ipython.org)
 
-- notebooks
+- notebooks have certain advantages, especially for teaching:
 
     - scientific notebooks for systematic search for novel discoveries (science), such as Kepler who discovered the moons of jupyter after meticuously recording his astronomical observations in his famous notebooks
     - combine text (including math), computing, __and__ visualization
@@ -58,7 +69,7 @@
     
 
     
-#### Writing in ipynb
+#### Writing in jupyter notebooks
 
 - [latex][latex] 
 
@@ -69,7 +80,7 @@
 
 
 ## Tutorials, Help
-
+Here is a list of some useful tutorials:
 - official [python tutorial][py_tutorial]
 - [Scipy Lecture Notes][sp_lectures]
 - [from python to numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) and [numpy questions](https://github.com/rougier/numpy-100) by Nicolas Rougier
@@ -87,31 +98,34 @@
 Also, check out the [github student pack](https://education.github.com/pack) that comes with wonderful tools such as the [git gui "Tower"](https://www.git-tower.com/mac), ["working copy"](https://workingcopyapp.com) an awesome git gui for iOS, and others
 
 ## Installing on your own maching
+You could download python, and most modules individually, either as compiled binary for your OS, or via some sort of packages. The distribution I recommend, and which is free for [academic use][anaconda_academic], is [anaconda][anaconda]. "Distribution" means that most commonly used modules (such as numpy et al.) are included in one downloadable installer. For windows, there is a portable scientific python distribution, "[WinPython](https://sourceforge.net/projects/winpython/)"
 
-- you could download python, and most modules individually, either as compiled binary for your OS, or via some sort of packages. The distribution I recommend, and which is free for [academic use][anaconda_academic], is [anaconda][anaconda]. "Distribution" means that most commonly used modules (such as numpy et al.) are included in one downloadable installer. For windows, there is a portable scientific python distribution, "[WinPython](https://sourceforge.net/projects/winpython/)"
 
-- Integrated Development Environment (IDE):
+### Integrated Development Environment (IDE):
+IDEs offer a convenient environment to develop code. This might be useful when a jupyter notebook is not enough anymore, or for coding/developing routines that are tested and played with in jupyter.
 
+IDEs offer the following advantages
     - debugging
     - some niceities (not necessary for jupyter notebooks)
-    - anaconda comes with [Visual Studio Code](https://code.visualstudio.com/)
-    - options: 
+    - anaconda comes with [Visual Studio Code](https://code.visualstudio.com/), which is some kind of hybrid text editor and IDE, and also comes with [Spyder](https://www.spyder-ide.org)
+    - other options: 
         - [PyCharm][pycharm] (free for educational purposes, cross-platform); 
         - [PyScripter][pyscripter] (on windows, I learned it there, loved it)
 
-- text editors
+### Text Editors
+For editing text and data files, a good text editor is a must. Here are some recommendations:
 
-    - mac OS: 
-        - [textmate][TM]
-        - [Sub Etha Edit](https://subethaedit.net)
-    - cross-platform: 
-        - [Sublime Text][sublime], 
-        - [notepad++](https://notepad-plus-plus.org/)
-        - [Visual Studio Code](https://code.visualstudio.com)
+- mac OS: 
+    - [textmate][TM]
+    - [Sub Etha Edit](https://subethaedit.net)
+- cross-platform: 
+    - [Sublime Text][sublime], 
+    - [notepad++](https://notepad-plus-plus.org/)
+    - [Visual Studio Code](https://code.visualstudio.com)
 
 
 
-### eBooks at the Library of the University of Tübingen
+## eBooks at the Library of the University of Tübingen
 - [Python Data Science Essentials - Second Edition](http://proquest.tech.safaribooksonline.de/9781786462138)
 - [Python Data Science Handbook](http://proquest.tech.safaribooksonline.de/book/programming/python/9781491912126)
 - [NumPy Essentials](http://proquest.tech.safaribooksonline.de/9781784393670)
