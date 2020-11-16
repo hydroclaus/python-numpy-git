@@ -1,31 +1,43 @@
 # Distributed Version Control
 
-
-
-## Basic Concepts
-
-<font color='red'>demo</font> → draw on board
-
-
 ## Reasoning
 
-- one set of codes available for everybody (everything should exist only once)
-- can go back in time and access different versions
-- we have one repository for the class; you can create your own repositories in your account (see section "our repo")
-- de facto standard for coding best practices (which flavour of version control is a matter of choice)
-- not only codes, but all ASCII files, can and should be version controlled, also the jupyter notebooks of this course (i.e. the course notes)
+- one set of codes available for everybody in the team (everything should exist only once; same reason why we write functions and aim for modularity);
+- you can go back in time and access different versions / revisions or go back to the state when you know something worked;
+- de facto standard for coding best practices (which flavour of version control is a matter of choice);
+- not only codes, but all ASCII files, can and should be version controlled, also the jupyter notebooks of this course (i.e., the course notes);
 
 
-## Which One?
+## Which System?
 
-- two big contenders in distributed version control: git (`git`) and mercurial (`hg`);
-- github seems to be the most common online host, and it provides rendering of jupyter notebook, hence we will use this one;
-- git is also implemented by gitlab and bitbucket; bitbucket also provides mercurial hosting
+- two big contenders in distributed version control: [git](https://git-scm.com) (`git`) and [mercurial](https://www.mercurial-scm.org) (`hg`);
+	- git is also implemented by gitlab and bitbucket; bitbucket also provides mercurial hosting;
+- any system can be installed on the command line / terminal, and might be readily available depending on your system;
+- any computer might act as a server, however there are providers such as [GitHub](https://github.com), [GitLab](https://about.gitlab.com) or others. Github seems to be the most common online host, and it provides rendering of jupyter notebook (at the time of writing this, maybe others have caught up);
+
+## Resources
+
+- ["Mastering git" an online tutorial](https://thoughtbot.com/upcase/mastering-git)
+- [Version Control Resources](https://www.git-tower.com/learn/), from ["Tower", which is a git GUI](https://www.git-tower.com/) for Mac and Windows. For students it is available via the [GitHub Student Developer Pack][github_student]
+- [as part of a python course on openedx, there is also information related to git](https://openedx.seas.gwu.edu/courses/course-v1:MAE+MAE6286+2017/courseware/9db220161df94f3a80e44ee70974a17a/8ed5f5580eab45618106f900b8d059f8/)
+- [learn git and version control at tower](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/integrating-remote-changes#start)
+- full git [documentation][git_doc]
+- a [git and github tutorial][git_github_tutorial]
+- full mercurial [documentation][hg_doc]
+
+## Systems
+I recommend you try the key commands (`pull`, `commit`, `push`, `status`) on the command line (if you are on windows, [this is wonderful!](https://gitforwindows.org)) 
+
+### GUIs
+- [Tower](https://www.git-tower.com/);
+- [Github provides a windows gui][github_win_desktop];
+
+### Comparing Files
+It is generally a powerful tool to be able to [compare two files](https://en.wikipedia.org/wiki/File_comparison). This is particularly useful if a conflict between versions exists. [Many tools exist on various platforms](https://en.wikipedia.org/wiki/Comparison_of_file_comparison_tools). On the Mac, [Kaleidoscope](https://kaleidoscope.app) or [Delta Walker](https://www.deltawalker.com) (cross-platform) work well; [Changes](https://changesapp.com) has not been updated in a while
+
 
 ## Connecting to a Host / a Server
-
-- secure communication ([ssh][ssh]) via [public-private key pairs](https://en.wikipedia.org/wiki/Public-key_cryptography); [video](https://www.youtube.com/watch?v=YEBfamv-_do) explaining this visually
-- note: at the beginning, this might add too much complexity, hence you can use the [windows gui][github_win_desktop] which allows authentification with username and password
+In order to communicate with the server (either a hosted computer or one in "the cloud" like GitHub), you need to authenticate -- either via username/password or via a secure connection ([ssh][ssh] via [public-private key pairs](https://en.wikipedia.org/wiki/Public-key_cryptography); [video](https://www.youtube.com/watch?v=YEBfamv-_do) explaining this visually). SSH is the recommended way of communication, even though the initial learning curve is a bit steep:
 
 
 ### Steps to get you up and running on your machine:
@@ -65,13 +77,6 @@
     
     
 
-## Notes
-
-- [Mastering git](https://thoughtbot.com/upcase/mastering-git)
-- [learn git and version control at tower](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/integrating-remote-changes#start)
-- full git [documentation][git_doc]
-- a [git and github tutorial][git_github_tutorial]
-- full mercurial [documentation][hg_doc]
 
 
 [our_repo]: https://github.com/clausTue/geostats18
