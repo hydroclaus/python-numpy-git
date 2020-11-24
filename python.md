@@ -88,17 +88,17 @@ Here is a list of some useful tutorials:
 - [Allen Downey on Colab](https://colab.research.google.com/github/AllenDowney/)
 - [PyTudes](https://github.com/norvig/pytudes) by Peter Norvig
 - [Numpy Introduction](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) on [google colab](https://colab.research.google.com/notebooks/intro.ipynb) 
-- for [pandas](https://pandas.pydata.org), there is "[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)"
+- for [pandas](https://pandas.pydata.org), there is "[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)"
 - The following two webpages offer great resources, particularly for beginners:
     - [realpython.com](https://realpython.com)
     - [tutorialspoint.com](https://www.tutorialspoint.com/index.htm)
 
 
 
-Also, check out the [github student pack](https://education.github.com/pack) that comes with wonderful tools such as the [git gui "Tower"](https://www.git-tower.com/mac), ["working copy"](https://workingcopyapp.com) an awesome git gui for iOS, and others
+Also, check out the [github student pack](https://education.github.com/pack) that comes with wonderful tools such as the [git gui "Tower"](https://www.git-tower.com), ["working copy"](https://workingcopyapp.com) an awesome git gui for iOS, and others
 
 ## Installing on your own maching
-You could download python, and most modules individually, either as compiled binary for your OS, or via some sort of packages. The distribution I recommend, and which is free for [academic use][anaconda_academic], is [anaconda][anaconda]. "Distribution" means that most commonly used modules (such as numpy et al.) are included in one downloadable installer. For windows, there is a portable scientific python distribution, "[WinPython](https://sourceforge.net/projects/winpython/)"
+You could download python, and most modules individually, either as compiled binary for your OS, or via some sort of packages. The distribution I recommend, is [anaconda][anaconda] (free fopr personal use). "Distribution" means that most commonly used modules (such as numpy et al.) are included in one downloadable installer. For windows, there is a portable scientific python distribution, "[WinPython](https://sourceforge.net/projects/winpython/)"
 
 
 ### Integrated Development Environment (IDE):
@@ -152,8 +152,7 @@ For editing text and data files, a good text editor is a must. Here are some rec
 [lshort]: http://tug.ctan.org/info/lshort/english/lshort.pdf
 [latex]: https://latex-project.org/guides/
 [md]: https://daringfireball.net/projects/markdown/syntax
-[anaconda]: https://www.continuum.io/downloads
-[anaconda_academic]: https://www.continuum.io/anaconda-academic-subscriptions-available
+[anaconda]: https://www.anaconda.com/products/individual
 [jup_gallery]: http://jupyter-notebook.readthedocs.org/en/latest/notebook.html
 [jup_earthsci]: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#earth-science-and-geo-spatial-data
 [jup_widgets]: https://github.com/ipython/ipywidgets
