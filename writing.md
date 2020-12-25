@@ -1,0 +1,4 @@
+- [Writing in the Sciences | Coursera](https://www.coursera.org/learn/sciwrite)) by [Kristin Sainani | Stanford Profiles](https://profiles.stanford.edu/kristin-sainani?tab=bio)
+- Book: "On Writing Well" by William Zinsser ([google search](https://www.google.com/search?hl=en&q=Zinsser%20on%20writing%20well))
+- on using references
+    - [Citing References in Scientific Research Papers](http://tim.thorpeallen.net/Courses/Reference/Citations.html)
