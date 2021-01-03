@@ -1,0 +1,3 @@
+- [Shell Script Basics (apple)](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)
+- [Research Software Engineering with Python](https://merely-useful.github.io/py-rse/index.html)
+- [Welcome to the Hands-on Scientific Computing course! — Hands-on Scientific Computing documentation](https://handsonscicomp.readthedocs.io/en/latest/)
