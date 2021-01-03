@@ -50,6 +50,7 @@ A plotting/visualisation environment that can conveniently be called directly fr
 
 - [Matplotlib Figures](https://matplotlib.org/matplotblog/posts/an-inquiry-into-matplotlib-figures/)
 - [pyplot vs. object-oriented plotting](https://matplotlib.org/matplotblog/posts/pyplot-vs-object-oriented-interface/)
+- [Matplotlib Forum](https://discourse.matplotlib.org/)
 
 ### ipython / project jupyter
 Most of my teaching takes place in [jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) or in [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/)
