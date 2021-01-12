@@ -4,23 +4,19 @@
 
 
 - [open source][python]
-
     - community, support
-    
     - a lot of packages
-    
         - comparable to R
         - tools for other stuff integrated ("[batteries included][batteries]"), e.g. interface to [operation system level][os], web server, [database][db_sqlite3], [web-scraping][beautiful_soup] (useufl for data), [regular expressions][re])
     
 - good for employability
-
-
 
 - good for scientific computing
 
     - [IPCC Special Report on Global Warming of 1.5°C (SR15)](https://matplotlib.org/matplotblog/posts/ipcc-sr15/)
 
     - LIGO [uses it][Ligo]
+    - [Ditching Excel for Python - Lessons Learned from a Legacy Industry - Amy Peniston](https://amypeniston.com/ditching-excel-for-python/)
     
     - python in Earch Science data processing and visualisation: [3D Visualization of Well Lithology with Python, Pyvista and VTK - Tutorial](https://www.hatarilabs.com/ih-en/3d-visualization-of-well-lithology-with-python-pyvista-and-vtk-tutorial)
     
@@ -31,8 +27,8 @@
         - vector / matrix stuff: [numpy][np]
         - other "scientific stuff": [scipy][sp]
         - visualization: matplotlib ([gallery][mpl_gallery], [plot command summary][mpl_commands])
-        - (data / time series: [pandas][pd])
-        - (nicer visualization than mpl: [seaborn][sb])
+        - data / time series: [pandas][pd]
+        - nicer visualization than mpl: [seaborn][sb]
         - ... many more
         
 - transition from version 2 to version 3 recently finished / ongoing. If you start fresh, I recommend version 3; I will be demonstrating using version 3
