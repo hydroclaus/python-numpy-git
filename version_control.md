@@ -62,24 +62,23 @@ In order to communicate with the server (either a hosted computer or one in "the
 3. get familiar with `git` (demo)
 4. clone our repository
 
-    [this][our_repo] is the link to the repository of our course:
+    [this][our_repo] is the link to my public profile. The link to our course is given in the course notes.
 
-        https://github.com/clausTue/geostatsXX
     
  
     command to clone with ssh
 
-        git clone git@github.com:clausTue/geostatsXX.git
+        git clone git@github.com:hydroclaus/XXX.git
         
     command to clone with http
     
-        git clone https://github.com/clausTue/geostatsXX.git
+        git clone https://github.com/hydroclaus/XXX.git
     
     
 
 
 
-[our_repo]: https://github.com/clausTue/geostats18
+[our_repo]: https://github.com/hydroclaus/
 [hg_doc]: http://hgbook.red-bean.com/read/
 [bibu_ssh]: https://confluence.atlassian.com/bitbucket/set-up-ssh-for-mercurial-728138122.html
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell
