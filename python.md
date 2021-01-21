@@ -91,6 +91,7 @@ Here is a list of some useful tutorials:
 - The following two webpages offer great resources, particularly for beginners:
     - [realpython.com](https://realpython.com)
     - [tutorialspoint.com](https://www.tutorialspoint.com/index.htm)
+- YouTube video tutorials: [Python Numpy for Your Grandma](https://www.youtube.com/playlist?list=PL9oKUrtC4VP6gDp1Vq3BzfViO0TWgR0vR)
 
 
 
