@@ -13,6 +13,8 @@
 
 - good for scientific computing
 
+    - "Computational thinking": [Ten computer codes that transformed science](https://www.nature.com/articles/d41586-021-00075-2)
+
     - [IPCC Special Report on Global Warming of 1.5°C (SR15)](https://matplotlib.org/matplotblog/posts/ipcc-sr15/)
 
     - LIGO [uses it][Ligo]
