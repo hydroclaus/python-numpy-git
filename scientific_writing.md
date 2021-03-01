@@ -11,6 +11,7 @@
     - there are many resources, for [example this](http://tim.thorpeallen.net/Courses/Reference/Citations.html)
     - it should read like a sentence!
     - "et al." (watch where the dot is)
+    - use tools to help (automatically change styles according to needs, be consistent; e.g. Mendeley, EndNote, Citavi, biblatex)
     
     
 - there are important symbols (both in word and in latex):
@@ -21,3 +22,12 @@
     "A panda walks into a bar. He eats, shoots, and leaves" versus "A panda walks into a bar. He eats, shoots and leaves"
     
 
+- style
+    - avoid filling words ("also", ...)
+    - no qualifiers ("very", "excellent", ...)
+    
+    
+    
+- references:
+    - "[The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style)" by Wiiliam Strunk, JR and E.B. White
+    - "[Deutsch für Profis](https://www.buecher.de/shop/humor/deutsch-fuer-profis/schneider-wolf/products_products/detail/prod_id/07603956/)" von Wolf Schneider
