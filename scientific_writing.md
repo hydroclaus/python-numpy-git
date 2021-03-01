@@ -1,5 +1,21 @@
 - Writing Support @UniStuttgart: [Writing Center](https://www.sz.uni-stuttgart.de/en/writing_center/mainpage/)
 
+- be consistent, with everything, as much as you can
+    - if you say something is called "sand", always call it sand, and not "clayey sand" from page 87 on.
+    - if you use an abbreviation for something, always use this abbreviation from then on. Do not use another abbreviation from some point on
+
+- style
+    - each sentence should be following logically from the previous sentence. Sentences that belong together form a paragraph. Each paragraph should contain one line of thought. This logical order, where everything builds sequentially on the previous building stone makes it easier for the reader to follow (the "rote Faden" is easily visible then; your text ist not "fadenscheinig").
+    - avoid filling words ("also", ...)
+    - no qualifiers ("very", "excellent", ...)
+    - instead use numbers to compare "things" (measurements)
+    - in English, there is a "[Title case](https://en.wikipedia.org/wiki/Title_case)", and there are tools that convert a text (a heading) consistently
+    - something can be seen *on* a figure or *in* a table.
+    - "e.g., ..." and "i.e., " -- watch for comma and dots and be consistent
+    - weigh your options carefully:
+        - "estimate" vs. "predict"
+        - when is something "significant" and at what level of significance?
+        
 - Singular: "porous medium"; plural: "porous media"
 
 - the concentration of Deathylene varies between 11.3⋅10^{-3} mg/L and 12.4⋅10^{-1} mg/L
@@ -21,18 +37,6 @@
 - commas in English:
     "A panda walks into a bar. He eats, shoots, and leaves" versus "A panda walks into a bar. He eats, shoots and leaves"
     
-
-- style
-    - each sentence should be following logically from the previous sentence. Sentences that belong together form a paragraph. Each paragraph should contain one line of thought. This logical order, where everything builds sequentially on the previous building stone makes it easier for the reader to follow (the "rote Faden" is easily visible then; your text ist not "fadenscheinig").
-    - avoid filling words ("also", ...)
-    - no qualifiers ("very", "excellent", ...)
-    - instead use numbers to compare "things" (measurements)
-    - in English, there is a "[Title case](https://en.wikipedia.org/wiki/Title_case)", and there are tools that convert a text (a heading) consistently
-    - something can be seen *on* a figure or *in* a table.
-    - "e.g., ..." and "i.e., " -- watch for comma and dots and be consistent
-    - weigh your options carefully:
-        - "estimate" vs. "predict"
-        - when is something "significant" and at what level of significance?
     
 - tools:
     - Grammarly ([extension vor VS Code](https://github.com/znck/grammarly))
