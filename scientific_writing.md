@@ -25,8 +25,11 @@
 - style
     - avoid filling words ("also", ...)
     - no qualifiers ("very", "excellent", ...)
+    - instead use numbers to compare "things" (measurements)
+    - in English, there is a "[Title case](https://en.wikipedia.org/wiki/Title_case)", and there are tools that convert a text (a heading) consistently
     
-    
+- tools:
+    - Grammarly ([extension vor VS Code](https://github.com/znck/grammarly))
     
 - references:
     - "[The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style)" by Wiiliam Strunk, JR and E.B. White
