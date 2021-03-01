@@ -23,10 +23,16 @@
     
 
 - style
+    - each sentence should be following logically from the previous sentence. Sentences that belong together form a paragraph. Each paragraph should contain one line of thought. This logical order, where everything builds sequentially on the previous building stone makes it easier for the reader to follow (the "rote Faden" is easily visible then; your text ist not "fadenscheinig").
     - avoid filling words ("also", ...)
     - no qualifiers ("very", "excellent", ...)
     - instead use numbers to compare "things" (measurements)
     - in English, there is a "[Title case](https://en.wikipedia.org/wiki/Title_case)", and there are tools that convert a text (a heading) consistently
+    - something can be seen *on* a figure or *in* a table.
+    - "e.g., ..." and "i.e., " -- watch for comma and dots and be consistent
+    - weigh your options carefully:
+        - "estimate" vs. "predict"
+        - when is something "significant" and at what level of significance?
     
 - tools:
     - Grammarly ([extension vor VS Code](https://github.com/znck/grammarly))
