@@ -41,10 +41,10 @@
     
     
 - tools:
-    - Grammarly ([extension vor VS Code](https://github.com/znck/grammarly))
+    - Grammarly ([extension for VS Code](https://github.com/znck/grammarly))
     
 - references:
-    - "[The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style)" by Wiiliam Strunk, JR and E.B. White
+    - "[The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style)" by Wiliam Strunk, JR and E.B. White
     - "[Deutsch für Profis](https://www.buecher.de/shop/humor/deutsch-fuer-profis/schneider-wolf/products_products/detail/prod_id/07603956/)" von Wolf Schneider
     - [Writing in the Sciences | Coursera](https://www.coursera.org/learn/sciwrite)) by [Kristin Sainani | Stanford Profiles](https://profiles.stanford.edu/kristin-sainani?tab=bio)
 
