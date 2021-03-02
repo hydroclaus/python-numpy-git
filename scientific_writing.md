@@ -7,18 +7,15 @@
 - style
     - each sentence should be following logically from the previous sentence. Sentences that belong together form a paragraph. Each paragraph should contain one line of thought. This logical order, where everything builds sequentially on the previous building stone makes it easier for the reader to follow (the "rote Faden" is easily visible then; your text ist not "fadenscheinig").
     - avoid filling words ("also", ...)
-    - no qualifiers ("very", "excellent", ...)
-    - everything below the water table is the saturated zone. Above the water table, water does still exist, hence it is not unsaturated but variably saturated
-    - aquifer vs. high-K zone -- what is the difference?
-    - instead use numbers to compare "things" (measurements)
+    - no qualifiers ("very", "excellent", ...); instead use numbers to compare "things" (measurements)
+    - difference between UK and US [English](http://www.tysto.com/uk-us-spelling-list.html)
     - in English, there is a "[Title case](https://en.wikipedia.org/wiki/Title_case)", and there are tools that convert a text (a heading) consistently
     - something can be seen *on* a figure or *in* a table.
     - "e.g., ..." and "i.e., " -- watch for comma and dots and be consistent
     - weigh your options carefully:
         - "estimate" vs. "predict"
-        - when is something "significant" and at what level of significance?
-        
-- Singular: "porous medium"; plural: "porous media"
+        - when is something "significant" and at what level of significance
+
 
 - the concentration of Deathylene varies between 11.3⋅10^{-3} mg/L and 12.4⋅10^{-1} mg/L
     - liter: capital "L"
@@ -38,10 +35,16 @@
     
 - commas in English:
     "A panda walks into a bar. He eats, shoots, and leaves" versus "A panda walks into a bar. He eats, shoots and leaves"
-    
+
+
+- specials: hydrogeology
+    - everything below the water table is the saturated zone. Above the water table, water does still exist, hence it is not unsaturated but variably saturated
+    - aquifer vs. high-K zone -- what is the difference?
+    - Singular: "porous medium"; plural: "porous media"
     
 - tools:
-    - Grammarly ([extension for VS Code](https://github.com/znck/grammarly))
+    - [Grammarly](https://www.grammarly.com) (can be used directly in VS code, [extension for VS Code](https://github.com/znck/grammarly))
+    - [Writefull](https://writefull.com) (can be used in [overleaf](http://www.overleaf.com))
     
 - references:
     - "[The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style)" by Wiliam Strunk, JR and E.B. White
