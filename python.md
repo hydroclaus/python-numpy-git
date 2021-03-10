@@ -92,6 +92,7 @@ Here is a list of some useful tutorials:
 - [Allen Downey on Colab](https://colab.research.google.com/github/AllenDowney/)
 - [PyTudes](https://github.com/norvig/pytudes) by Peter Norvig
 - [Numpy Introduction](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) on [google colab](https://colab.research.google.com/notebooks/intro.ipynb) 
+- [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 - for [pandas](https://pandas.pydata.org), there is "[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)"
 - The following two webpages offer great resources, particularly for beginners:
     - [realpython.com](https://realpython.com)
