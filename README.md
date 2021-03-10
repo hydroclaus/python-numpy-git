@@ -2,11 +2,12 @@
 
 
 
-This is an overview over the following technical aspects:
+This is an open overview over the following technical aspects:
 
-- [Python / Numpy](./python.md) 
-- [version control](./version_control.md) 
+- [python and "scientific python packages"](./python.md) 
+- [version control, git](./version_control.md) 
 - [debugging](./debugging.md)
+- [scientific writing](./scientific_writing.md)
 
 
 These aspects are relevant for various courses that I teach.
