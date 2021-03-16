@@ -1,5 +1,5 @@
 # Geostatistical Tools
-A short list on geostatistical software
+A short list on geostatistical software in random order.
 
 ## Open Software
 - [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl): Geostatistics framework in Julia ([documentation](https://juliaearth.github.io/GeoStats.jl/stable/plotting.html); part of "[JuliaEarth](https://github.com/JuliaEarth)")
