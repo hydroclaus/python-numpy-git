@@ -52,6 +52,9 @@ A plotting/visualisation environment that can conveniently be called directly fr
 - [pyplot vs. object-oriented plotting](https://matplotlib.org/matplotblog/posts/pyplot-vs-object-oriented-interface/)
 - [Matplotlib Forum](https://discourse.matplotlib.org/)
 
+#### On the Use of Color
+- [SciPy 2015 video](https://www.youtube.com/watch?v=xAoljeRJ3lU) on developing the then novel default color map 
+- [paper by Stoelzle and Stein](https://hess.copernicus.org/preprints/hess-2021-118/): "Rainbow colors distort and mislead research in hydrology – guidance for better visualizations and science communication" in HESSD
 ### ipython / project jupyter
 Most of my teaching takes place in [jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) or in [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/)
 
