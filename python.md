@@ -86,10 +86,15 @@ Here is a list of some useful tutorials:
 - [Scipy Lecture Notes][sp_lectures]
 - [from python to numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) and [numpy questions](https://github.com/rougier/numpy-100) by Nicolas Rougier
 - good course for novices: [Lorena Barba MOOC course](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about)
-- [Allen Downey on Colab](https://colab.research.google.com/github/AllenDowney/)
 - [PyTudes](https://github.com/norvig/pytudes) by Peter Norvig
+- Allen Downey:
+    - [blog](https://www.allendowney.com/blog/)
+    - [books](https://greenteapress.com/wp/)
+    - [on Colab](https://colab.research.google.com/github/AllenDowney/)
+
 - [Numpy Introduction](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) on [google colab](https://colab.research.google.com/notebooks/intro.ipynb) 
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+- [Hans Petter Langtangen](http://hplgit.github.io/homepage/index.html)
 - for [pandas](https://pandas.pydata.org), there is "[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)"
 - The following two webpages offer great resources, particularly for beginners:
     - [realpython.com](https://realpython.com)
@@ -126,6 +131,10 @@ For editing text and data files, a good text editor is a must. Here are some rec
     - [notepad++](https://notepad-plus-plus.org/)
     - [Visual Studio Code](https://code.visualstudio.com)
 
+
+## Intersting Python Packages
+- [Ice Cream](https://github.com/gruns/icecream) (`ic`) -- convenience for debugging
+- [Science Plots](https://github.com/garrettj403/SciencePlots) for pretty figures
 
 
 ## eBooks at the Library of the University of Tübingen
