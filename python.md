@@ -3,7 +3,7 @@
 ## Motivation
 
 
-- [open source][python]
+- [open source][python], [widely used language](https://www.zdnet.com/article/programming-language-rankings-javascript-still-rules-python-holds-off-java/)
     - community, support
     - a lot of packages
         - comparable to R
@@ -50,6 +50,7 @@ A plotting/visualisation environment that can conveniently be called directly fr
 
 - [Matplotlib Figures](https://matplotlib.org/matplotblog/posts/an-inquiry-into-matplotlib-figures/)
 - [pyplot vs. object-oriented plotting](https://matplotlib.org/matplotblog/posts/pyplot-vs-object-oriented-interface/)
+- [The Python Graph Gallery](https://www.python-graph-gallery.com)
 - [Matplotlib Forum](https://discourse.matplotlib.org/)
 
 #### On the Use of Color
@@ -85,9 +86,12 @@ Most of my teaching takes place in [jupyter notebooks](https://jupyter-notebook.
 
 ## Tutorials, Help
 Here is a list of some useful tutorials:
-- official [python tutorial][py_tutorial]
+- official [python tutorial][py_tutorial]; list of tutorials in the [python wiki](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 - [Scipy Lecture Notes][sp_lectures]
 - [from python to numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) and [numpy questions](https://github.com/rougier/numpy-100) by Nicolas Rougier
+- Think Python, Think Stats (stuff from XXX) <!--
+	TODO  Fill this out!
+-->
 - good course for novices: [Lorena Barba MOOC course](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about)
 - [Allen Downey on Colab](https://colab.research.google.com/github/AllenDowney/)
 - [PyTudes](https://github.com/norvig/pytudes) by Peter Norvig

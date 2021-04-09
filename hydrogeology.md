@@ -1,0 +1,2 @@
+- Groundwater [1979 version at hydrogeologists without borders](http://hydrogeologistswithoutborders.org/wordpress/1979-english/)
+- books available at the [groundwater project](https://gw-project.org/books/)

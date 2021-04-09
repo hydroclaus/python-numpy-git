@@ -9,6 +9,7 @@ This is an open overview over the following technical aspects:
 - [debugging](./debugging.md)
 - [scientific writing](./scientific_writing.md)
 - [geostatistical software](./geostats_software.md)
+- [hydrogeology](./hydrogeology)
 
 
 These aspects are relevant for various courses that I teach.
