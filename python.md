@@ -52,10 +52,14 @@ A plotting/visualisation environment that can conveniently be called directly fr
 - [pyplot vs. object-oriented plotting](https://matplotlib.org/matplotblog/posts/pyplot-vs-object-oriented-interface/)
 - [The Python Graph Gallery](https://www.python-graph-gallery.com)
 - [Matplotlib Forum](https://discourse.matplotlib.org/)
+- [Matplotlib Packages / "extensions"](https://matplotlib.org/mpl-third-party/)
 
 #### On the Use of Color
 - [SciPy 2015 video](https://www.youtube.com/watch?v=xAoljeRJ3lU) on developing the then novel default color map 
 - [paper by Stoelzle and Stein](https://hess.copernicus.org/preprints/hess-2021-118/): "Rainbow colors distort and mislead research in hydrology – guidance for better visualizations and science communication" in HESSD
+- nature paper: Crameri, F., Shephard, G.E. & Heron, P.J. The misuse of colour in science communication. Nat Commun 11, 5444 (2020). [https://doi.org/10.1038/s41467-020-19160-7][mpl_color_nature]
+
+
 ### ipython / project jupyter
 Most of my teaching takes place in [jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) or in [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/)
 
@@ -100,6 +104,7 @@ Here is a list of some useful tutorials:
     - [on Colab](https://colab.research.google.com/github/AllenDowney/)
 
 - [Numpy Introduction](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) on [google colab](https://colab.research.google.com/notebooks/intro.ipynb) 
+- [Numpy tutorials](https://numpy.org/numpy-tutorials/)
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 - [Hans Petter Langtangen](http://hplgit.github.io/homepage/index.html)
 - for [pandas](https://pandas.pydata.org), there is "[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)"
@@ -181,3 +186,4 @@ For editing text and data files, a good text editor is a must. Here are some rec
 [sublime]: http://www.sublimetext.com/
 [pycharm]: https://www.jetbrains.com/pycharm-edu/
 [pyscripter]: https://sourceforge.net/projects/pyscripter/
+[mpl_color_nature]: https://www.nature.com/articles/s41467-020-19160-7
