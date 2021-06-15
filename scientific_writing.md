@@ -7,11 +7,13 @@ While editing a few written works recently, a few things struck me again and aga
 - If you are related to the University of Stuttgart: there is writing Support: [Writing Center](https://www.sz.uni-stuttgart.de/en/writing_center/mainpage/)
 
 - be consistent, with everything, as much as you can
-    - if you say something is called "sand", always call it sand, and not "clayey sand" from page 87 on.
+    - if you say something is called "sand", always call it sand, and not "sand" in the beginning and then "clayey sand" from page 87 on.
     - if you use an abbreviation for something, always use this abbreviation from then on. Do not use another abbreviation from some point on
+	- the search and replace functionality in your texteditor make this relatively easy.
 
 - style
     - each sentence should be following logically from the previous sentence. Sentences that belong together form a paragraph. Each paragraph should contain one line of thought. This logical order, where everything builds sequentially on the previous building stone, makes it easier for the reader to follow (the "rote Faden" is easily visible then; your text is not "fadenscheinig").
+    - I found that many students start with "Figure X shows Y". Then they continue with the next figure. Instead, the text becomes much more convincing when you state your hypothesis, then explain what you did  to test the hypothesis (experiment, simulation) and then explain what you observed. The figures are there to help to make the point or to make the point clearer. They do not make the point by themselves!
     - Additionally, I like to know where we are going in a chapter or a section. What is this section's aim?
     - avoid filling words ("also", ...)
     - no qualifiers ("very", "excellent", ...); instead use numbers to compare "things" (measurements)
@@ -46,8 +48,11 @@ While editing a few written works recently, a few things struck me again and aga
 
 - specials: hydrogeology
     - everything below the water table is the saturated zone. Above the water table, water does still exist, hence it is not unsaturated but variably saturated
-    - aquifer vs. high-K zone -- what is the difference?
+    - "aquifer" vs. "high-K zone" -- what is the difference?
     - singular: "porous medium"; plural: "porous media"
+    - hydraulic head is the sum of pressure head and elevation head (this is what these terms are called)
+	- the Darcy flux q ($q=-K i$; $i$ is the hydraulic gradient $i= \frac{\Delta h}{\Delta l}) is a specific discharge ($q= Q / A$)  = "Filtergeschwindigkeit"
+	- the groundwater veocity or seepage velocity ($v = q / \phi$) corrects for the part in the cross-sectional area through which flow can occur = "Abstandsgeschwindigkeit"
     
 - tools:
     - [Grammarly](https://www.grammarly.com) (can be used directly in VS code, [extension for VS Code](https://github.com/znck/grammarly))
@@ -75,6 +80,7 @@ Alternative formulation
 - your burning question / hypothesis / aim
 - your experimental approach
 - why your experimental approach is new and different and important (fill in the gaps)
+
 ## Useful Links
 - [10 Simple Steps to Writing a Scientific Paper](https://spie.org/news/photonics-focus/janfeb-2020/how-to-write-a-scientific-paper?SSO=1)
 - @Geostatsguy: Every day I review abstracts & papers, for my 12 Ph.D. students, my editor roles & as a reviewer for a variety of journals. Here are some of the common issues that I observe in #technical #writing. Writing is a hard, worthwhile life-long journey. https://twitter.com/GeostatsGuy/status/1285610419504242690?s=20
