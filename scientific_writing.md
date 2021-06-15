@@ -40,7 +40,7 @@ While editing a few written works recently, a few things struck me again and aga
     
 - there are important symbols (in word, in latex, etc.):
     - [non-breaking hyphen](https://en.wikipedia.org/wiki/Wikipedia:Non-breaking_hyphen)
-    - [non-breaking space](https://en.wikipedia.org/wiki/Non-breaking_space) 
+    - [non-breaking space](https://en.wikipedia.org/wiki/Non-breaking_space) – e.g., between the word "Figure" and the number of the figure, such that the word and the number do not appear on two different lines
     
 - commas in English:
     "A panda walks into a bar. He eats, shoots, and leaves" versus "A panda walks into a bar. He eats, shoots and leaves" ([there's a joke, and there's even a book that I like on this issue](https://adeptenglish.com/lessons/english-learn-grammar-7/#eats-shoots-and-leaves-the-joke))
