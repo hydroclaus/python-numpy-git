@@ -34,9 +34,9 @@ While editing a few written works recently, a few things struck me again and aga
     
 - proper citation!
     - there are many resources, for [example this one](http://tim.thorpeallen.net/Courses/Reference/Citations.html)
-    - a sentence with a citation should like a proper sentence!
+    - a sentence with a citation should read like a proper sentence (place brackets accordingly)!
     - "et al." (watch where the dot is)
-    - use tools to help (automatically change styles according to needs, be consistent; e.g., Mendeley, EndNote, Citavi, biblatex)
+    - use tools to help (automatically change styles according to needs, be consistent; e.g., Mendeley, EndNote, Citavi, biblatex, etc.)
     
     
 - there are important symbols (in word, in latex, etc.):
@@ -44,7 +44,7 @@ While editing a few written works recently, a few things struck me again and aga
     - [non-breaking space](https://en.wikipedia.org/wiki/Non-breaking_space) – e.g., between the word "Figure" and the number of the figure, such that the word and the number do not appear on two different lines
     
 - commas in English:
-    "A panda walks into a bar. He eats, shoots, and leaves" versus "A panda walks into a bar. He eats, shoots and leaves" ([there's a joke, and there's even a book that I like on this issue](https://adeptenglish.com/lessons/english-learn-grammar-7/#eats-shoots-and-leaves-the-joke))
+    "A panda walks into a bar. He eats, shoots, and leaves" versus "A panda walks into a bar. He eats, shoots and leaves" ([there's a joke, and there's even a book on this issue](https://adeptenglish.com/lessons/english-learn-grammar-7/#eats-shoots-and-leaves-the-joke))
 
 
 - specials: hydrogeology
