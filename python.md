@@ -53,6 +53,7 @@ A plotting/visualisation environment that can conveniently be called directly fr
 - [The Python Graph Gallery](https://www.python-graph-gallery.com)
 - [Matplotlib Forum](https://discourse.matplotlib.org/)
 - [Matplotlib Packages / "extensions"](https://matplotlib.org/mpl-third-party/)
+- [dufte](https://github.com/nschloe/dufte): This package creates clean and beautiful plots that work on light and dark backgrounds. Inspired by the work of Edward Tufte.
 
 #### On the Use of Color
 - [SciPy 2015 video](https://www.youtube.com/watch?v=xAoljeRJ3lU) on developing the then novel default color map 

@@ -6,6 +6,8 @@ While editing a few written works recently, a few things struck me again and aga
 
 - If you are related to the University of Stuttgart: there is writing Support: [Writing Center](https://www.sz.uni-stuttgart.de/en/writing_center/mainpage/)
 
+- How to [construct a summary paragraph](http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf)
+
 - be consistent, with everything, as much as you can
     - if you say something is called "sand", always call it sand, and not "sand" in the beginning and then "clayey sand" from page 87 on.
     - if you use an abbreviation for something, always use this abbreviation from then on. Do not use another abbreviation from some point on
@@ -44,7 +46,7 @@ While editing a few written works recently, a few things struck me again and aga
     - [non-breaking space](https://en.wikipedia.org/wiki/Non-breaking_space) – e.g., between the word "Figure" and the number of the figure, such that the word and the number do not appear on two different lines
     
 - commas in English:
-    "A panda walks into a bar. He eats, shoots, and leaves" versus "A panda walks into a bar. He eats, shoots and leaves" ([there's a joke, and there's even a book on this issue](https://adeptenglish.com/lessons/english-learn-grammar-7/#eats-shoots-and-leaves-the-joke))
+    "A panda walks into a bar. He eats, shoots, and leaves" versus "A panda walks into a bar. He eats, shoots and leaves" ([there's a joke, and there's even a book Non this issue](https://adeptenglish.com/lessons/english-learn-grammar-7/#eats-shoots-and-leaves-the-joke))
 
 
 - specials: hydrogeology
