@@ -8,6 +8,8 @@ While editing a few written works recently, a few things struck me again and aga
 
 - How to [construct a summary paragraph](http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf)
 
+- I strongly recommend [Writing in the Sciences | Coursera](https://www.coursera.org/learn/sciwrite) by [Kristin Sainani](https://profiles.stanford.edu/kristin-sainani?tab=bio)
+
 - be consistent, with everything, as much as you can
     - if you say something is called "sand", always call it sand, and not "sand" in the beginning and then "clayey sand" from page 87 on.
     - if you use an abbreviation for something, always use this abbreviation from then on. Do not use another abbreviation from some point on
@@ -64,7 +66,6 @@ While editing a few written works recently, a few things struck me again and aga
 - references:
     - "[The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style)" by Wiliam Strunk, JR and E.B. White
     - "[Deutsch für Profis](https://www.buecher.de/shop/humor/deutsch-fuer-profis/schneider-wolf/products_products/detail/prod_id/07603956/)" von Wolf Schneider
-    - [Writing in the Sciences | Coursera](https://www.coursera.org/learn/sciwrite) by [Kristin Sainani](https://profiles.stanford.edu/kristin-sainani?tab=bio)
 
 
 ## Introduction
