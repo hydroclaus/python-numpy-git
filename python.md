@@ -19,6 +19,7 @@
 
     - LIGO [uses it][Ligo]
     - [Ditching Excel for Python - Lessons Learned from a Legacy Industry - Amy Peniston](https://amypeniston.com/ditching-excel-for-python/)
+    - [Höhere Staatsschulden = weniger Wachstum?](https://makronom.de/reinhart-rogoff-hoehere-staatsschulden-weniger-wachstum-40736) (correlation vs. causation; the excel problem)
     
     - python in Earch Science data processing and visualisation: [3D Visualization of Well Lithology with Python, Pyvista and VTK - Tutorial](https://www.hatarilabs.com/ih-en/3d-visualization-of-well-lithology-with-python-pyvista-and-vtk-tutorial)
     
@@ -38,12 +39,13 @@
 ## "Scientific Python"
 Despite the fact that python is a general programming language and has intrinsically many things like web-servers, simple data-bases, and many more available ("batteries included"), there exists a Python-based ecosystem of open-source software for mathematics, science, and engineering. "[SciPy](https://www.scipy.org)" (pronounced “Sigh Pie”).  In particular, these are some of the core packages that extend pythons abilities much for our purposes:
 
-- [Numpy](https://numpy.org) (linear algebra), 
-- [SciPy](https://www.scipy.org/scipylib/index.html) (statistics, FFT, special functions,...),
-- [matplotlib](https://matplotlib.org) (plotting), 
-- [iPython](http://ipython.org) (interactive computing), 
-- [SymPy](https://www.sympy.org/en/index.html) (symbolic math), 
-- [pandas](https://pandas.pydata.org) (data structures, particularly good for time-series)"
+- [Numpy](https://numpy.org): linear algebra, 
+- [SciPy](https://www.scipy.org/scipylib/index.html): statistics, FFT, special functions,...
+- [matplotlib](https://matplotlib.org): plotting, 
+- [iPython](http://ipython.org): interactive computing, 
+- [xarray](https://xarray.pydata.org/en/stable/index.html): xarray: N-D labeled arrays and datasets in Python
+- [pandas](https://pandas.pydata.org): data structures, particularly good for time-series
+- [SymPy](https://www.sympy.org/en/index.html): symbolic math 
 
 ### matplotlib
 A plotting/visualisation environment that can conveniently be called directly from python
@@ -54,6 +56,7 @@ A plotting/visualisation environment that can conveniently be called directly fr
 - [Matplotlib Forum](https://discourse.matplotlib.org/)
 - [Matplotlib Packages / "extensions"](https://matplotlib.org/mpl-third-party/)
 - [dufte](https://github.com/nschloe/dufte): This package creates clean and beautiful plots that work on light and dark backgrounds. Inspired by the work of Edward Tufte.
+- great matplotlib "book" (PDF): [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) by Nicolas Rougier
 
 #### On the Use of Color
 - [SciPy 2015 video](https://www.youtube.com/watch?v=xAoljeRJ3lU) on developing the then novel default color map 
@@ -109,7 +112,9 @@ Here is a list of some useful tutorials:
 - [Numpy tutorials](https://numpy.org/numpy-tutorials/)
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 - [Hans Petter Langtangen](http://hplgit.github.io/homepage/index.html)
-- for [pandas](https://pandas.pydata.org), there is "[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)"
+- for [pandas](https://pandas.pydata.org), there are
+	 - "[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)"
+	 - [Python for Data Analysis](https://wesmckinney.com/book/), 3E by Wes McKinney
 - The following two webpages offer great resources, particularly for beginners:
     - [realpython.com](https://realpython.com)
     - [tutorialspoint.com](https://www.tutorialspoint.com/index.htm)
