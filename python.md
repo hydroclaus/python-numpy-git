@@ -94,11 +94,19 @@ Most of my teaching takes place in [jupyter notebooks](https://jupyter-notebook.
 
 ## Tutorials, Help
 Here is a list of some useful tutorials:
+
 - official [python tutorial][py_tutorial]; list of tutorials in the [python wiki](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
 - [Scipy Lecture Notes][sp_lectures]
+
+- [e2eml school](https://e2eml.school/blog.html)
+
 - [from python to numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) and [numpy questions](https://github.com/rougier/numpy-100) by Nicolas Rougier
+
 - [Modern Python Developer's Toolkit](https://pycon.switowski.com/)
+
 - good course for novices: [Lorena Barba MOOC course](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about)
+
 - [PyTudes](https://github.com/norvig/pytudes) by Peter Norvig
 
 - Allen Downey:
