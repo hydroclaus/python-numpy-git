@@ -45,6 +45,7 @@ Despite the fact that python is a general programming language and has intrinsic
 - [iPython](http://ipython.org): interactive computing, 
 - [xarray](https://xarray.pydata.org/en/stable/index.html): xarray: N-D labeled arrays and datasets in Python
 - [pandas](https://pandas.pydata.org): data structures, particularly good for time-series
+- [pint](https://pint.readthedocs.io/en/stable/): define, operate and manipulate physical quantities
 - [SymPy](https://www.sympy.org/en/index.html): symbolic math 
 
 ### matplotlib

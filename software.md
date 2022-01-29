@@ -13,3 +13,8 @@ A short list on geostatistical software in random order.
 - [geovariances](https://www.geovariances.com/en/)
 - [ArcGIS Geostatistical Analyst](https://www.esri.com/en-us/arcgis/products/geostatistical-analyst/overview)
 - [Surfer](https://www.goldensoftware.com/products/surfer/features)
+
+
+# Geo-Tools
+
+- [list of predominantly geochemical](https://models.earth.indiana.edu/applications_index.php) related software at Indiana, e.g., [PHREEQC online](https://models.earth.indiana.edu/phreeqc.php), [CO2 calculator](http://149.165.169.51/co2calc.php)
