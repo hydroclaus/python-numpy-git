@@ -29,6 +29,7 @@ While editing a few written works recently, a few things struck me again and aga
         - "estimate" vs. "predict"
         - when is something "significant" and at what level of significance
     - Generally, the first word of a sentence starts with a capital letter, and at the end of a sentence forms some sort of punctuation, usually a period. While it seems strange that I feel the urge to point this out, history has shown that it is necessary to be pointed out.
+	- there are different kinds of dashes:[the "en" and the "em" Dash](https://www.scribbr.com/language-rules/dashes/); both have their [representations in latex](https://tex.stackexchange.com/a/53637).
 
 
 - Be carful and consistent with units. In my experience, this works best in Latex using the package [SIunitx](https://www.namsu.de/Extra/pakete/Siunitx.pdf). An example: "*The concentration of Deathylene varies between 11.3⋅10^{-3} mg/L and 12.4⋅10^{-1} mg/L*" [note: the exponents are written here in latex syntax for clarity, but should ultimately be typeset properly, independent of the software you use]
