@@ -53,8 +53,8 @@ While editing a few written works recently, a few things struck me again and aga
 
 
 - specials: hydrogeology
-    - everything below the water table is the saturated zone. Above the water table, water does still exist, hence it is not unsaturated but variably saturated
-    - "aquifer" vs. "high-K zone" -- what is the difference?
+    - everything below the water table is the saturated zone. Above the water table, water does still exist, hence it is not unsaturated but variably saturated (dependent on the vertical elevation above the water table). Hence, this zone is called the "variably saturated zone" or the "vadose zone".
+    - think about it: "aquifer" vs. "high-K zone" -- what is the difference?
     - singular: "porous medium"; plural: "porous media"
     - hydraulic head is the sum of pressure head and elevation head (this is what these terms are called)
 	- the Darcy flux q ($q=-K i$; $i$ is the hydraulic gradient $i= \frac{\Delta h}{\Delta l}) is a specific discharge ($q= Q / A$)  = "Filtergeschwindigkeit"
