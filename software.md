@@ -1,3 +1,6 @@
+# Scientific Programming
+- [Software Carpentry](https://software-carpentry.org)
+
 # Geostatistical Tools
 A short list on geostatistical software in random order.
 
