@@ -31,7 +31,7 @@ While editing a few written works recently, a few things struck me again and aga
     - Generally, the first word of a sentence starts with a capital letter, and at the end of a sentence forms some sort of punctuation, usually a period. While it seems strange that I feel the urge to point this out, history has shown that it is necessary to be pointed out.
 
 
-- Be carful and consistent with units. In my experience, this works best in Latex using the package [SIunitx](https://www.namsu.de/Extra/pakete/Siunitx.pdf). An example: "*The concentration of Deathylene varies between 11.3⋅10^{-3} mg/L and 12.4⋅10^{-1} mg/L*" [note: the exponents are written here in latex syntax for clarity, but should ultimately be typeset properly, independent of the software you use]
+- Be carful and consistent with units. In my experience, this works best in Latex using the package [SIunitx](https://www.namsu.de/Extra/pakete/Siunitx.pdf). An example: "*The concentration of Deathylene varies between 11.3⋅10^{-3} mg/L and 12.4⋅10^{-1} mg/L*" [note: the exponents are written here in latex syntax for clarity, but should ultimately be typeset properly, independent of the software you use (and if you use latex, then use SIunitx)]
     - units after each number
     - watch significant digits
     - liter: capital "L"
@@ -44,16 +44,19 @@ While editing a few written works recently, a few things struck me again and aga
     
     
 - there are important symbols (in word, in latex, etc.):
-    - [non-breaking hyphen](https://en.wikipedia.org/wiki/Wikipedia:Non-breaking_hyphen)
-    - [non-breaking space](https://en.wikipedia.org/wiki/Non-breaking_space) – e.g., between the word "Figure" and the number of the figure, such that the word and the number do not appear on two different lines
+	- dashes/hypens: there are different kinds of dashes:[the "en" and the "em" Dash](https://www.scribbr.com/language-rules/dashes/); both have their [representations in latex](https://tex.stackexchange.com/a/53637).
+    - breaking/non-breaking hyphens/spaces:
+		- [non-breaking hyphen](https://en.wikipedia.org/wiki/Wikipedia:Non-breaking_hyphen)
+    	- [non-breaking space](https://en.wikipedia.org/wiki/Non-breaking_space) – e.g., between the word "Figure" and the number of the figure, such that the word and the number do not appear on two different lines
+	- quotation marks: [see here](https://en.wikibooks.org/wiki/LaTeX/Text_Formatting#Quote-marks) and [here](https://de.wikibooks.org/wiki/LaTeX-Wörterbuch:_Anführungszeichen)
     
 - commas in English:
     "A panda walks into a bar. He eats, shoots, and leaves" versus "A panda walks into a bar. He eats, shoots and leaves" ([there's a joke, and there's even a book Non this issue](https://adeptenglish.com/lessons/english-learn-grammar-7/#eats-shoots-and-leaves-the-joke))
 
 
 - specials: hydrogeology
-    - everything below the water table is the saturated zone. Above the water table, water does still exist, hence it is not unsaturated but variably saturated
-    - "aquifer" vs. "high-K zone" -- what is the difference?
+    - everything below the water table is the saturated zone. Above the water table, water does still exist, hence it is not unsaturated but variably saturated (dependent on the vertical elevation above the water table). Hence, this zone is called the "variably saturated zone" or the "vadose zone".
+    - think about it: "aquifer" vs. "high-K zone" -- what is the difference?
     - singular: "porous medium"; plural: "porous media"
     - hydraulic head is the sum of pressure head and elevation head (this is what these terms are called)
 	- the Darcy flux q ($q=-K i$; $i$ is the hydraulic gradient $i= \frac{\Delta h}{\Delta l}) is a specific discharge ($q= Q / A$)  = "Filtergeschwindigkeit"
