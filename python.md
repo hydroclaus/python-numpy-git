@@ -157,7 +157,7 @@ For editing text and data files, a good text editor is a must. Here are some rec
 - cross-platform: 
     - [Sublime Text][sublime], 
     - [notepad++](https://notepad-plus-plus.org/)
-    - [Visual Studio Code](https://code.visualstudio.com)
+    - [Visual Studio Code](https://code.visualstudio.com) or "[vscodium](https://github.com/VSCodium/vscodium)" its sibbling that doesn't phone home
 
 
 ## Intersting Python Packages
