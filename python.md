@@ -160,9 +160,10 @@ For editing text and data files, a good text editor is a must. Here are some rec
     - [Visual Studio Code](https://code.visualstudio.com) or "[vscodium](https://github.com/VSCodium/vscodium)" its sibbling that doesn't phone home
 
 
-## Intersting Python Packages
+## Intersting Python / Jupyter Packages
 - [Ice Cream](https://github.com/gruns/icecream) (`ic`) -- convenience for debugging
 - [Science Plots](https://github.com/garrettj403/SciencePlots) for pretty figures
+- Curated list of [jupyter tools](https://github.com/markusschanta/awesome-jupyter) (via the [talk python podcast](https://talkpython.fm/episodes/show/394/awesome-jupyter-libraries-and-extensions-in-2022))
 
 
 ## eBooks at the Library of the University of Tübingen
