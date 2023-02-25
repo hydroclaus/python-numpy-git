@@ -21,6 +21,7 @@ While editing a few written works recently, a few things struck me again and aga
     - Additionally, I like to know where we are going in a chapter or a section. What is this section's aim?
     - avoid filling words ("also", ...)
     - no qualifiers ("very", "excellent", ...); instead use numbers to compare "things" (measurements)
+    - ditch "in order to" for "to" ([youtube](https://www.youtube.com/watch?v=DPOcVojQ0kY))
     - there is a difference between UK and US [English](http://www.tysto.com/uk-us-spelling-list.html)
     - in English, there is a "[Title case](https://en.wikipedia.org/wiki/Title_case)", and there are tools that convert a text (a heading) consistently
     - something can be seen *on* a figure or *in* a table.
@@ -67,7 +68,7 @@ While editing a few written works recently, a few things struck me again and aga
     - [Writefull](https://writefull.com) (can be used in [overleaf](http://www.overleaf.com))
     
 - references:
-    - "[The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style)" by Wiliam Strunk, JR and E.B. White
+    - "[The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style)" by Wiliam Strunk, JR and E.B. White, [at project Gutenberg](https://gutenberg.org/ebooks/37134)
     - "[Deutsch für Profis](https://www.buecher.de/shop/humor/deutsch-fuer-profis/schneider-wolf/products_products/detail/prod_id/07603956/)" von Wolf Schneider
 
 
