@@ -30,6 +30,8 @@ While editing a few written works recently, a few things struck me again and aga
         - "estimate" vs. "predict"
         - when is something "significant" and at what level of significance
     - Generally, the first word of a sentence starts with a capital letter, and at the end of a sentence forms some sort of punctuation, usually a period. While it seems strange that I feel the urge to point this out, history has shown that it is necessary to be pointed out.
+    - Don't use: "it can be seen" (unless you specify what and where and when), "obviously" and other fill-words. Most of the time, you can delete "also"
+    - Don't use: "we could observe". Instead: "we observed", or, if passive voice should be necessary "it was observed".
 
 
 - Be carful and consistent with units. In my experience, this works best in Latex using the package [SIunitx](https://www.namsu.de/Extra/pakete/Siunitx.pdf). An example: "*The concentration of Deathylene varies between 11.3⋅10^{-3} mg/L and 12.4⋅10^{-1} mg/L*" [note: the exponents are written here in latex syntax for clarity, but should ultimately be typeset properly, independent of the software you use (and if you use latex, then use SIunitx)]
@@ -55,14 +57,16 @@ While editing a few written works recently, a few things struck me again and aga
     "A panda walks into a bar. He eats, shoots, and leaves" versus "A panda walks into a bar. He eats, shoots and leaves" ([there's a joke, and there's even a book Non this issue](https://adeptenglish.com/lessons/english-learn-grammar-7/#eats-shoots-and-leaves-the-joke))
 
 
-- specials: hydrogeology
-    - everything below the water table is the saturated zone. Above the water table, water does still exist, hence it is not unsaturated but variably saturated (dependent on the vertical elevation above the water table). Hence, this zone is called the "variably saturated zone" or the "vadose zone".
-    - think about it: "aquifer" vs. "high-K zone" -- what is the difference?
-    - singular: "porous medium"; plural: "porous media"
-    - hydraulic head is the sum of pressure head and elevation head (this is what these terms are called)
-	- the Darcy flux q ($q=-K i$; $i$ is the hydraulic gradient $i= \frac{\Delta h}{\Delta l}) is a specific discharge ($q= Q / A$)  = "Filtergeschwindigkeit"
-	- the groundwater veocity or seepage velocity ($v = q / \phi$) corrects for the part in the cross-sectional area through which flow can occur = "Abstandsgeschwindigkeit"
+### Hydrogeology
+- Generally, you want to refer to "*hydraulic head*" (hydraulische Druckhöhe, but "head" is not equal to Druckhöhe!). Not "head". Also not "piezometric head", as $h= \psi + z$, where $h$ is hydraulic head, $\psi$ is piezometric head, and $z$ is elevation head. In a static water column, without flow, hydraulic head is constant.
+- everything below the water table is the saturated zone. Above the water table, water does still exist, hence it is not unsaturated but variably saturated (dependent on the vertical elevation above the water table). Hence, this zone is called the "variably saturated zone" or the "vadose zone".
+- think about it: "aquifer" vs. "high-K zone" -- what is the difference?
+- singular: "porous medium"; plural: "porous media"
+- hydraulic head is the sum of pressure head and elevation head (this is what these terms are called)
+- the Darcy flux q ($q=-K i$; $i$ is the hydraulic gradient $i= \frac{\Delta h}{\Delta l}$) is a specific discharge ($q= Q / A$)  = "Filtergeschwindigkeit"
+- the groundwater veocity or seepage velocity ($v = q / \phi$) corrects for the part in the cross-sectional area through which flow can occur = "Abstandsgeschwindigkeit"
     
+### Other
 - tools:
     - [Grammarly](https://www.grammarly.com) (can be used directly in VS code, [extension for VS Code](https://github.com/znck/grammarly))
     - [Writefull](https://writefull.com) (can be used in [overleaf](http://www.overleaf.com))
