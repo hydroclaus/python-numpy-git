@@ -118,3 +118,6 @@ There is a relatively nice online tool ([overleaf](https://www.overleaf.com/)) t
 Tools for Tables
 - [Create LaTeX tables online – TablesGenerator.com](https://www.tablesgenerator.com/)
 - [TableFlip - Simple Table Editor for Mac](https://tableflipapp.com/)
+- [Convert Excel to LaTeX Table - Table Convert Online](https://tableconvert.com/excel-to-latex)
+- [calc2latex](https://calc2latex.sourceforge.net/) -- from open office calc to latex table
+- [Excel2LaTeX](https://www.ctan.org/pkg/excel2latex) -- from ms excel to latex (might be a bit old)
