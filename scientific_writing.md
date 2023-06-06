@@ -57,7 +57,7 @@ While editing a few written works recently, a few things struck me again and aga
     "A panda walks into a bar. He eats, shoots, and leaves" versus "A panda walks into a bar. He eats, shoots and leaves" ([there's a joke, and there's even a book Non this issue](https://adeptenglish.com/lessons/english-learn-grammar-7/#eats-shoots-and-leaves-the-joke))
 
 
-### Hydrogeology
+### Hydrogeology-Specifc Notes
 - Generally, you want to refer to "*hydraulic head*" (hydraulische Druckhöhe, but "head" is not equal to Druckhöhe!). Not "head". Also not "piezometric head", as $h= \psi + z$, where $h$ is hydraulic head, $\psi$ is piezometric head, and $z$ is elevation head. In a static water column, without flow, hydraulic head is constant.
 - everything below the water table is the saturated zone. Above the water table, water does still exist, hence it is not unsaturated but variably saturated (dependent on the vertical elevation above the water table). Hence, this zone is called the "variably saturated zone" or the "vadose zone".
 - think about it: "aquifer" vs. "high-K zone" -- what is the difference?
@@ -66,7 +66,7 @@ While editing a few written works recently, a few things struck me again and aga
 - the Darcy flux q ($q=-K i$; $i$ is the hydraulic gradient $i= \frac{\Delta h}{\Delta l}$) is a specific discharge ($q= Q / A$)  = "Filtergeschwindigkeit"
 - the groundwater veocity or seepage velocity ($v = q / \phi$) corrects for the part in the cross-sectional area through which flow can occur = "Abstandsgeschwindigkeit"
     
-### Other
+### Other Notes
 - tools:
     - [Grammarly](https://www.grammarly.com) (can be used directly in VS code, [extension for VS Code](https://github.com/znck/grammarly))
     - [Writefull](https://writefull.com) (can be used in [overleaf](http://www.overleaf.com))
@@ -76,7 +76,7 @@ While editing a few written works recently, a few things struck me again and aga
     - "[Deutsch für Profis](https://www.buecher.de/shop/humor/deutsch-fuer-profis/schneider-wolf/products_products/detail/prod_id/07603956/)" von Wolf Schneider
 
 
-## Introduction
+## The Introduction
 
 Wie ein Trichter, oben breit, unten spitz
 
@@ -98,3 +98,23 @@ Alternative formulation
 - @Geostatsguy: Every day I review abstracts & papers, for my 12 Ph.D. students, my editor roles & as a reviewer for a variety of journals. Here are some of the common issues that I observe in #technical #writing. Writing is a hard, worthwhile life-long journey. https://twitter.com/GeostatsGuy/status/1285610419504242690?s=20
 - [Importance of Editing and Proofreading in Academic Writing - Enago Academy](https://www.enago.com/academy/importance-of-proofreading-and-editing-in-academic-writing/)
 - [Clinical Chemistry Guide to Scientific Writing](https://www.aacc.org/science-and-research/clinical-chemistry/clinical-chemistry%C2%A0guide-to-scientific-writing#)
+
+
+## Latex
+
+Scientific Writing in [Latex](https://www.latex-project.org) has advantages
+- consistent referencing (to figures, papers, sections in the writing)
+- a reasonable system to deal with references is included (bibtex)
+
+There is a relatively nice online tool ([overleaf](https://www.overleaf.com/)) that
+- facilitates the compilation of latex online (no need to install latex locally)
+- allows for collaboration and sharing
+
+### Tables in latex
+- [Typesetting tables in latex](https://tug.org/TUGboat/tb28-3/tb90hoeppner.pdf) and references therein!
+- [Small Guide to Making Nice Tables](https://people.inf.ethz.ch/markusp/teaching/guides/guide-tables.pdf)
+- [Professional and clean tables with LaTeX – texblog](https://texblog.org/2017/02/06/proper-tables-with-latex/) -- use [booktabs](https://www.ctan.org/pkg/booktabs?lang=en)!
+
+Tools for Tables
+- [Create LaTeX tables online – TablesGenerator.com](https://www.tablesgenerator.com/)
+- [TableFlip - Simple Table Editor for Mac](https://tableflipapp.com/)
