@@ -11,7 +11,6 @@ A short list on geostatistical software in random order.
 - [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy): Python “wrapper” around GSLIB
 - [gstat](https://cran.r-project.org/web/packages/gstat/index.html): geostatistics package in R, used to be [its own executable a while ago](http://gstat.org/)
 
-
 ## Commercial Software
 - [geovariances](https://www.geovariances.com/en/)
 - [ArcGIS Geostatistical Analyst](https://www.esri.com/en-us/arcgis/products/geostatistical-analyst/overview)
