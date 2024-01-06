@@ -92,6 +92,10 @@ Most of my teaching takes place in [jupyter notebooks](https://jupyter-notebook.
 - [markdown][md]
     - [markdown tutorial](https://www.markdowntutorial.com)
 
+#### Intersting Python / Jupyter Packages
+- [Ice Cream](https://github.com/gruns/icecream) (`ic`) -- convenience for debugging
+- [Science Plots](https://github.com/garrettj403/SciencePlots) for pretty figures
+- Curated list of [jupyter tools](https://github.com/markusschanta/awesome-jupyter) (via the [talk python podcast](https://talkpython.fm/episodes/show/394/awesome-jupyter-libraries-and-extensions-in-2022))
 
 ## Tutorials, Help
 Here is a list of some useful tutorials:
@@ -133,6 +137,11 @@ Here is a list of some useful tutorials:
 
 Also, check out the [github student pack](https://education.github.com/pack) that comes with wonderful tools such as the [git gui "Tower"](https://www.git-tower.com), ["working copy"](https://workingcopyapp.com) an awesome git gui for iOS, and others
 
+
+
+## Python and geographic data / geocomputation
+- online book, with Jakub Nowosad: [Geocomputation with Python](https://py.geocompx.org)
+
 ## Installing on your own maching
 You could download python, and most modules individually, either as compiled binary for your OS, or via some sort of packages. The distribution I recommend, is [anaconda][anaconda] (free fopr personal use). "Distribution" means that most commonly used modules (such as numpy et al.) are included in one downloadable installer. For windows, there is a portable scientific python distribution, "[WinPython](https://sourceforge.net/projects/winpython/)"
 
@@ -160,13 +169,10 @@ For editing text and data files, a good text editor is a must. Here are some rec
     - [Visual Studio Code](https://code.visualstudio.com) or "[vscodium](https://github.com/VSCodium/vscodium)" its sibbling that doesn't phone home
 
 
-## Intersting Python / Jupyter Packages
-- [Ice Cream](https://github.com/gruns/icecream) (`ic`) -- convenience for debugging
-- [Science Plots](https://github.com/garrettj403/SciencePlots) for pretty figures
-- Curated list of [jupyter tools](https://github.com/markusschanta/awesome-jupyter) (via the [talk python podcast](https://talkpython.fm/episodes/show/394/awesome-jupyter-libraries-and-extensions-in-2022))
 
 
-## eBooks at the Library of the University of Tübingen
+
+## eBooks at the Library of the University of Tübingen (old)
 - [Python Data Science Essentials - Second Edition](http://proquest.tech.safaribooksonline.de/9781786462138)
 - [Python Data Science Handbook](http://proquest.tech.safaribooksonline.de/book/programming/python/9781491912126)
 - [NumPy Essentials](http://proquest.tech.safaribooksonline.de/9781784393670)
