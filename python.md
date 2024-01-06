@@ -141,6 +141,7 @@ Also, check out the [github student pack](https://education.github.com/pack) tha
 
 ## Python and geographic data / geocomputation
 - online book, with Jakub Nowosad: [Geocomputation with Python](https://py.geocompx.org)
+- Working with Spatial Data in Python, [OpenGeoHub Summer School](https://geobgu.xyz/presentations/p_2023_ogh/)
 
 ## Installing on your own maching
 You could download python, and most modules individually, either as compiled binary for your OS, or via some sort of packages. The distribution I recommend, is [anaconda][anaconda] (free fopr personal use). "Distribution" means that most commonly used modules (such as numpy et al.) are included in one downloadable installer. For windows, there is a portable scientific python distribution, "[WinPython](https://sourceforge.net/projects/winpython/)"
