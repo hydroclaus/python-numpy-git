@@ -117,7 +117,7 @@ Here is a list of some useful tutorials:
 - Allen Downey:
     - [blog](https://www.allendowney.com/blog/)
     - [books](https://greenteapress.com/wp/)
-	    - [tink python](https://greenteapress.com/wp/think-python-2e/); a [repo with worked examples](https://github.com/BenU/thinkPython)
+	    - [tink python](https://greenteapress.com/wp/think-python-2e/); a [repo with worked examples](https://github.com/BenU/thinkPython); UPDATE: [3rd version](https://allendowney.github.io/ThinkPython/index.html)
 	    - [think stats](https://www.greenteapress.com/thinkstats/)
     - [on Colab](https://colab.research.google.com/github/AllenDowney/)
 
