@@ -32,6 +32,8 @@ While editing a few written works recently, a few things struck me again and aga
     - Generally, the first word of a sentence starts with a capital letter, and at the end of a sentence forms some sort of punctuation, usually a period. While it seems strange that I feel the urge to point this out, history has shown that it is necessary to be pointed out.
     - Don't use: "it can be seen" (unless you specify what and where and when), "obviously" and other fill-words. Most of the time, you can delete "also"
     - Don't use: "we could observe". Instead: "we observed", or, if passive voice should be necessary "it was observed".
+	- [Stay off gobbledygook language](https://archive.org/details/Maverick1944MemoAboutGobbledygook). The Naval officer who wired "Sighted Sub - Sank Same" told the whole story.
+
 
 
 - Be carful and consistent with units. In my experience, this works best in Latex using the package [SIunitx](https://www.namsu.de/Extra/pakete/Siunitx.pdf). An example: "*The concentration of Deathylene varies between 11.3⋅10^{-3} mg/L and 12.4⋅10^{-1} mg/L*" [note: the exponents are written here in latex syntax for clarity, but should ultimately be typeset properly, independent of the software you use (and if you use latex, then use SIunitx)]
