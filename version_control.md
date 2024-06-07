@@ -1,12 +1,15 @@
 # Distributed Version Control
+
 VEGAS has its group repository on GitHub: [https://github.com/VEGASIWS](https://github.com/VEGASIWS)
+
 If you want in:
-	1. sign up to **github** via the [student developer pack][github_student]
-	2. send your GitHub username to [claus.haslauer@iws.uni-stuttgart.de](mailto:max.muster@domain.de?subject=Please%20add%20my%20username%20to%20VEGAS-GitHub)
+
+1. sign up to **github** via the [student developer pack][github_student]
+2. send your GitHub username to [claus.haslauer@iws.uni-stuttgart.de](mailto:max.muster@domain.de?subject=Please%20add%20my%20username%20to%20VEGAS-GitHub)
 
 ## Reasoning – Why Version Control?
-- one set of codes available for everybody in the team (everything should exist only once; same reason why we write functions and aim for modularity);
-- you can go back in time and access different versions / revisions or go back to the state when you know something worked;
+- locally: flag the state of code that is known to work, you can always go back to that ("backup in some sense"); you can go back in time and access different versions / revisions or go back to the state when you know something worked;
+- if used with remote (online) server (e.g., GitHub): one set of codes available for everybody in the team (everything should exist only once; same reason why we write functions and aim for modularity);
 - de facto standard for coding best practices (which flavour of version control is a matter of choice);
 - not only codes, but all ASCII files, can and should be version controlled, also the jupyter notebooks of this course (i.e., the course notes);
 

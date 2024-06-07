@@ -8,7 +8,7 @@
     - a lot of packages
         - comparable to R
         - tools for other stuff integrated ("[batteries included][batteries]"), e.g. interface to [operation system level][os], web server, [database][db_sqlite3], [web-scraping][beautiful_soup] (useufl for data), [regular expressions][re])
-    
+    	- easily extensible via "modules" (see "Scientific Python")
 - good for employability
 
 - good for scientific computing
@@ -25,23 +25,15 @@
     
     - some arguments pro python by [Cyrille Rossant][python_science]
 
-    - easily extensible via "modules"
     
-        - vector / matrix stuff: [numpy][np]
-        - other "scientific stuff": [scipy][sp]
-        - visualization: matplotlib ([gallery][mpl_gallery], [plot command summary][mpl_commands])
-        - data / time series: [pandas][pd]
-        - nicer visualization than mpl: [seaborn][sb]
-        - ... many more
-        
 - transition from version 2 to version 3 recently finished / ongoing. If you start fresh, I recommend version 3; I will be demonstrating using version 3
 
 ## "Scientific Python"
 Despite the fact that python is a general programming language and has intrinsically many things like web-servers, simple data-bases, and many more available ("batteries included"), there exists a Python-based ecosystem of open-source software for mathematics, science, and engineering. "[SciPy](https://www.scipy.org)" (pronounced “Sigh Pie”).  In particular, these are some of the core packages that extend pythons abilities much for our purposes:
 
 - [Numpy](https://numpy.org): linear algebra, 
-- [SciPy](https://www.scipy.org/scipylib/index.html): statistics, FFT, special functions,...
-- [matplotlib](https://matplotlib.org): plotting, 
+- [SciPy](https://scipy.org): statistics, FFT, special functions,...
+- [matplotlib](https://matplotlib.org): plotting, data visualisation ([gallery][mpl_gallery], [plot command summary][mpl_commands]); also: [seaborn][sb]
 - [iPython](http://ipython.org): interactive computing, 
 - [xarray](https://xarray.pydata.org/en/stable/index.html): xarray: N-D labeled arrays and datasets in Python
 - [pandas](https://pandas.pydata.org): data structures, particularly good for time-series
@@ -97,6 +89,14 @@ Most of my teaching takes place in [jupyter notebooks](https://jupyter-notebook.
 - [Science Plots](https://github.com/garrettj403/SciencePlots) for pretty figures
 - Curated list of [jupyter tools](https://github.com/markusschanta/awesome-jupyter) (via the [talk python podcast](https://talkpython.fm/episodes/show/394/awesome-jupyter-libraries-and-extensions-in-2022))
 
+
+### Python and geographic data / geocomputation / GIS
+- online book, with Jakub Nowosad: [Geocomputation with Python](https://py.geocompx.org)
+- Working with Spatial Data in Python, [OpenGeoHub Summer School](https://geobgu.xyz/presentations/p_2023_ogh/)
+- [Computational modelling of terrains](https://tudelft3d.github.io/terrainbook/)
+
+
+
 ## Tutorials, Help
 Here is a list of some useful tutorials:
 
@@ -139,17 +139,13 @@ Also, check out the [github student pack](https://education.github.com/pack) tha
 
 
 
-## Python and geographic data / geocomputation / GIS
-- online book, with Jakub Nowosad: [Geocomputation with Python](https://py.geocompx.org)
-- Working with Spatial Data in Python, [OpenGeoHub Summer School](https://geobgu.xyz/presentations/p_2023_ogh/)
-- [Computational modelling of terrains](https://tudelft3d.github.io/terrainbook/)
+
 
 ## Installing on your own maching
-You could download python, and most modules individually, either as compiled binary for your OS, or via some sort of packages. The distribution I recommend, is [anaconda][anaconda] (free fopr personal use). "Distribution" means that most commonly used modules (such as numpy et al.) are included in one downloadable installer. For windows, there is a portable scientific python distribution, "[WinPython](https://sourceforge.net/projects/winpython/)"
-
+You could download python, and most modules individually, either as compiled binary for your OS, or via some sort of packages. The distribution I recommend, is [anaconda][anaconda] (free fopr personal use). "Distribution" means that most commonly used modules (such as numpy et al.) are included in one downloadable installer. The full anaconda suite is large and takes up a lot of space. Instead a viable option is to use its smaller sibling, [miniconda](https://docs.anaconda.com/free/miniconda/). This is a bare python installation, and specific environments with only the packages you need, can be installed, e.g., [via yml files](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file). For windows, there is a portable scientific python distribution, "[WinPython](https://sourceforge.net/projects/winpython/)"
 
 ### Integrated Development Environment (IDE):
-IDEs offer a convenient environment to develop code. This might be useful when a jupyter notebook is not enough anymore, or for coding/developing routines that are tested and played with in jupyter.
+IDEs offer a convenient environment to develop code. This might be useful when a jupyter notebook is not enough anymore, or for coding/developing routines that are tested and played with in jupyter. Some [general advice on IDEs](Some general advice on IDEs).
 
 IDEs offer the following advantages
     - debugging
