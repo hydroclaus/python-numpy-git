@@ -6,7 +6,7 @@ While editing a few written works recently, a few things struck me again and aga
 
 - If you are related to the University of Stuttgart: there is writing Support: [Writing Center](https://www.sz.uni-stuttgart.de/en/writing_center/mainpage/)
 
-- How to [construct a summary paragraph](http://www.cbs.umn.edu/sites/default/files/public/downloads/Annotated_Nature_abstract.pdf)
+- How to [construct a summary paragraph](https://cbs.umn.edu/sites/cbs.umn.edu/files/migrated-files/downloads/Annotated_Nature_abstract.pdf)
 
 - I strongly recommend [Writing in the Sciences | Coursera](https://www.coursera.org/learn/sciwrite) by [Kristin Sainani](https://profiles.stanford.edu/kristin-sainani?tab=bio)
 
