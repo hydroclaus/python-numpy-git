@@ -34,8 +34,6 @@ While editing a few written works recently, a few things struck me again and aga
     - Don't use: "we could observe". Instead: "we observed", or, if passive voice should be necessary "it was observed".
 	- [Stay off gobbledygook language](https://archive.org/details/Maverick1944MemoAboutGobbledygook). The Naval officer who wired "Sighted Sub - Sank Same" told the whole story.
 
-
-
 - Be carful and consistent with units. In my experience, this works best in Latex using the package [SIunitx](https://www.namsu.de/Extra/pakete/Siunitx.pdf). An example: "*The concentration of Deathylene varies between 11.3⋅10^{-3} mg/L and 12.4⋅10^{-1} mg/L*" [note: the exponents are written here in latex syntax for clarity, but should ultimately be typeset properly, independent of the software you use (and if you use latex, then use SIunitx)]
     - units after each number
     - watch significant digits
@@ -46,7 +44,6 @@ While editing a few written works recently, a few things struck me again and aga
     - a sentence with a citation should read like a proper sentence (place brackets accordingly)!
     - "et al." (watch where the dot is)
     - use tools to help (automatically change styles according to needs, be consistent; e.g., Mendeley, EndNote, Citavi, biblatex, etc.)
-    
     
 - there are important symbols (in word, in latex, etc.):
 	- dashes/hypens: there are different kinds of dashes:[the "en" and the "em" Dash](https://www.scribbr.com/language-rules/dashes/); both have their [representations in latex](https://tex.stackexchange.com/a/53637).
@@ -72,11 +69,15 @@ While editing a few written works recently, a few things struck me again and aga
 - tools:
     - [Grammarly](https://www.grammarly.com) (can be used directly in VS code, [extension for VS Code](https://github.com/znck/grammarly))
     - [Writefull](https://writefull.com) (can be used in [overleaf](http://www.overleaf.com))
-    
+   
+- online ressources:
+    - "[Ozdic.com](https://ozdic.com/)" (to find correct word relations and prepositions)
+	- "[Manchester Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)" (comprehensive guide to scientific writing with lots of examples)
+	- "[COCA](https://www.english-corpora.org/coca/) (largest corpus of english text; to find word usages and more in academic texts)
+	
 - references:
     - "[The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style)" by Wiliam Strunk, JR and E.B. White, [at project Gutenberg](https://gutenberg.org/ebooks/37134)
     - "[Deutsch für Profis](https://www.buecher.de/shop/humor/deutsch-fuer-profis/schneider-wolf/products_products/detail/prod_id/07603956/)" von Wolf Schneider
-
 
 ## The Introduction
 
