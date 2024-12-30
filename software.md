@@ -18,5 +18,5 @@ A short list on geostatistical software in random order.
 
 
 # Geo-Tools
-
+- [Introduction to GIS Programming — Introduction to GIS Programming](https://geog-312.gishub.org/index.html), including a ["geo-python" section](https://geog-312.gishub.org/book/geospatial/get_started.html)
 - [list of predominantly geochemical](https://models.earth.indiana.edu/applications_index.php) related software at Indiana, e.g., [PHREEQC online](https://models.earth.indiana.edu/phreeqc.php), [CO2 calculator](http://149.165.169.51/co2calc.php)
