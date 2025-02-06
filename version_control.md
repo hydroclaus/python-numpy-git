@@ -59,6 +59,7 @@ In order to communicate with the server (either a hosted computer or one in "the
     
 
 ## Resources
+- [Beej's Guide to Git](https://beej.us/guide/bggit/)
 - ["Mastering git" an online tutorial](https://thoughtbot.com/upcase/mastering-git)
 - [Version Control Resources](https://www.git-tower.com/learn/), e.g., [introductory videos "git for complete beginners"](https://www.git-tower.com/learn/git/videos/) from ["Tower", which is a git GUI](https://www.git-tower.com/) for Mac and Windows. For students it is available via the [GitHub Student Developer Pack][github_student]
 - [as part of a python course on openedx, there is also information related to git](https://openedx.seas.gwu.edu/courses/course-v1:MAE+MAE6286+2017/courseware/9db220161df94f3a80e44ee70974a17a/8ed5f5580eab45618106f900b8d059f8/)
