@@ -1,4 +1,20 @@
-overleaf.com
+# Writing Details
+
+Be consistent!
+
+- use the package [`SIUnitX`](https://www.namsu.de/Extra/pakete/Siunitx.html). Examples: A precipitation intensity should be written as `\SI{0.167}{\centi\metre\per\day}`. If you do this, the symbol for a liter will always be a capital `L`, as it should be. You need these two (at least the first) in the preamble:
+
+    \usepackage{siunitx}
+    \DeclareSIUnit\year{yr}
+
+- Bulleted Lists
+    - Typeset a period (`.`) at the end of each item
+    - Start each item with a capital letter
+    
+
+Style
+
+- descriptive figure captions are nice.
 
 # Resources
 - [Learn LaTeX | learnlatex.org](https://www.learnlatex.org/)
