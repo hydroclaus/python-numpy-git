@@ -55,6 +55,9 @@ While editing a few written works recently, a few things struck me again and aga
 - commas in English:
     "A panda walks into a bar. He eats, shoots, and leaves" versus "A panda walks into a bar. He eats, shoots and leaves" ([there's a joke, and there's even a book Non this issue](https://adeptenglish.com/lessons/english-learn-grammar-7/#eats-shoots-and-leaves-the-joke))
 
+### References
+The New York Times had a[ great editorial in 2024](https://www.nytimes.com/interactive/2024/11/02/opinion/vote-harris-2024-election.html), just before Trump was re-elected. They used links to refer to background infromation which allowed them to keep the editorial extremely concise. This is a great example for how references could and should be used.
+
 
 ### Hydrogeology-Specifc Notes
 - Generally, you want to refer to "*hydraulic head*" (hydraulische Druckhöhe, but "head" is not equal to Druckhöhe!). Not "head". Also not "piezometric head", as $h= \psi + z$, where $h$ is hydraulic head, $\psi$ is piezometric head, and $z$ is elevation head. In a static water column, without flow, hydraulic head is constant.
