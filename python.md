@@ -55,6 +55,7 @@ A plotting/visualisation environment that can conveniently be called directly fr
 - [SciPy 2015 video](https://www.youtube.com/watch?v=xAoljeRJ3lU) on developing the then novel default color map 
 - [paper by Stoelzle and Stein](https://hess.copernicus.org/preprints/hess-2021-118/): "Rainbow colors distort and mislead research in hydrology – guidance for better visualizations and science communication" in HESSD
 - nature paper: Crameri, F., Shephard, G.E. & Heron, P.J. The misuse of colour in science communication. Nat Commun 11, 5444 (2020). [https://doi.org/10.1038/s41467-020-19160-7][mpl_color_nature]
+- [colorspace: A Python toolbox for colors and palettes](https://www.zeileis.org/news/python_colorspace/)
 
 
 ### ipython / project jupyter
