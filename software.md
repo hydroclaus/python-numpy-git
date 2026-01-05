@@ -1,6 +1,8 @@
 # Scientific Programming
 - [Software Carpentry](https://software-carpentry.org)
 
+# Data Analysis
+- [LabPlot – Scientific plotting and data analysis](https://labplot.org/)
 # Geostatistical Tools
 A short list on geostatistical software in random order.
 
