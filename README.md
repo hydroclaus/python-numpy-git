@@ -1,8 +1,10 @@
 # python-numpy-git
+Generally, this entire repository ("folder") is meant to serve useful resources for (my) PhD (and other) students. Poke around!
+
+For those of you who are learning German: [this might be interesting](https://sites.google.com/dit.ie/anyone4german/home)
 
 
-
-This is an open overview over the following technical aspects:
+There are other pages here, but the following list gives an overview over some technical aspects:
 
 - [python and "scientific python packages"](./python.md) 
 - [version control, git](./version_control.md) 
