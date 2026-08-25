@@ -122,6 +122,7 @@ There is a relatively nice online tool ([overleaf](https://www.overleaf.com/)) t
 - [Professional and clean tables with LaTeX – texblog](https://texblog.org/2017/02/06/proper-tables-with-latex/) -- use [booktabs](https://www.ctan.org/pkg/booktabs?lang=en)!
 
 Tools for Tables
+- there is a great python package to create nice tables, called [Great Tables](https://posit-dev.github.io/great-tables/). It was influenced by "[Bureau of census manual of Tabular Presentation](./resources/tabular-presentation.pdf)"
 - [Create LaTeX tables online – TablesGenerator.com](https://www.tablesgenerator.com/)
 - [TableFlip - Simple Table Editor for Mac](https://tableflipapp.com/)
 - [Convert Excel to LaTeX Table - Table Convert Online](https://tableconvert.com/excel-to-latex)
